@@ -5,4 +5,6 @@ Git tracks changes of files.
 GIT remote
 git branch
 Creating a new branch is quick and simple.
+git stash
+git statch0
 
