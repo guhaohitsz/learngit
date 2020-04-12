@@ -8,3 +8,12 @@ Creating a new branch is quick and simple.
 git stash
 git statch0
 
+git pull orgin master
+
+git add .
+git commit -m "XXXXXX"
+git pull orgin master
+git push orgin master
+
+git checout -b dev orgin/dev
+git checout dex
